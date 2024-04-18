@@ -1,6 +1,6 @@
 ### Hi there, I'm Jimmy 👋
 
-- 🔭 I’m currently working on a bill tracker app!
+- 🔭 I’m currently working on a bill tracker app and an asset tracker app!
 - 🌱 I’m currently learning Object-Oriented Design & Data Structures and Algorithms
 - 🎓 I'm currently pursuing my Bachelor of Computer Science @ San Jose State University
 - 💬 Ask me about diet and weightlifting!
